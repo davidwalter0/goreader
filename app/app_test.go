@@ -3,9 +3,9 @@ package app
 import (
 	"testing"
 
+	localMock "github.com/davidwalter0/goreader/mock"
 	termbox "github.com/nsf/termbox-go"
 	"github.com/stretchr/testify/mock"
-	localMock "github.com/taylorskalyo/goreader/mock"
 )
 
 func TestInitNavigationKeys(t *testing.T) {

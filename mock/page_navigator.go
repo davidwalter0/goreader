@@ -1,8 +1,8 @@
 package mock
 
 import (
+	"github.com/davidwalter0/goreader/parse"
 	"github.com/stretchr/testify/mock"
-	"github.com/taylorskalyo/goreader/parse"
 )
 
 type MockPageNavigator struct {

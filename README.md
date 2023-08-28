@@ -2,14 +2,14 @@
 
 Terminal epub reader
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/taylorskalyo/goreader)](https://goreportcard.com/report/github.com/taylorskalyo/goreader)
+[![Go Report Card](https://goreportcard.com/badge/github.com/davidwalter0/goreader)](https://goreportcard.com/report/github.com/davidwalter0/goreader)
 
 Goreader is a minimal ereader application that runs in the terminal. Images are displayed as ASCII art. Commands are based on less.
 
 ## Installation
 
 ``` shell
-go get github.com/taylorskalyo/goreader
+go get github.com/davidwalter0/goreader
 ```
 
 ## Usage

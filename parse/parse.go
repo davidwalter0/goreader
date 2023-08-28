@@ -13,9 +13,9 @@ import (
 	_ "image/jpeg"
 	_ "image/png"
 
+	"github.com/davidwalter0/goreader/epub"
 	"github.com/nfnt/resize"
 	termbox "github.com/nsf/termbox-go"
-	"github.com/taylorskalyo/goreader/epub"
 
 	"golang.org/x/net/html"
 	"golang.org/x/net/html/atom"

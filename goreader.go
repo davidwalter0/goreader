@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/taylorskalyo/goreader/app"
-	"github.com/taylorskalyo/goreader/epub"
-	"github.com/taylorskalyo/goreader/nav"
+	"github.com/davidwalter0/goreader/app"
+	"github.com/davidwalter0/goreader/epub"
+	"github.com/davidwalter0/goreader/nav"
 )
 
 func main() {

@@ -1,10 +1,10 @@
 package app
 
 import (
+	"github.com/davidwalter0/goreader/epub"
+	"github.com/davidwalter0/goreader/nav"
+	"github.com/davidwalter0/goreader/parse"
 	termbox "github.com/nsf/termbox-go"
-	"github.com/taylorskalyo/goreader/epub"
-	"github.com/taylorskalyo/goreader/nav"
-	"github.com/taylorskalyo/goreader/parse"
 )
 
 type Application interface {

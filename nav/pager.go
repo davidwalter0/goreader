@@ -1,8 +1,8 @@
 package nav
 
 import (
+	"github.com/davidwalter0/goreader/parse"
 	termbox "github.com/nsf/termbox-go"
-	"github.com/taylorskalyo/goreader/parse"
 )
 
 type PageNavigator interface {

@@ -1,8 +1,8 @@
 package mock
 
 import (
+	"github.com/davidwalter0/goreader/nav"
 	"github.com/stretchr/testify/mock"
-	"github.com/taylorskalyo/goreader/nav"
 )
 
 type MockApplication struct {
